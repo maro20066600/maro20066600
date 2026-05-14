@@ -1,4 +1,4 @@
-# Marwan Mohamed
+# Marwan Maro
 
 Smart Contract Security Researcher focused on DeFi protocol security, competitive audits, and security tooling.
 
