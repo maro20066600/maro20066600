@@ -3,6 +3,8 @@
 Smart Contract Security Researcher focused on DeFi protocol security, competitive audits, and security tooling.
 
 [![Code4rena](https://img.shields.io/badge/Code4rena-Maro0o0o-7C3AED?style=for-the-badge)](https://code4rena.com/@Maro0o0o)
+[![Cantina](https://img.shields.io/badge/Cantina-Mar0o0o0-111827?style=for-the-badge)](https://cantina.xyz/u/Mar0o0o0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan%20Mohamed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marwan-mohamed-97b49328b/)
 [![GitHub](https://img.shields.io/badge/GitHub-maro20066600-181717?style=for-the-badge&logo=github)](https://github.com/maro20066600)
 
 ## Security Highlights
@@ -10,13 +12,14 @@ Smart Contract Security Researcher focused on DeFi protocol security, competitiv
 - Identified valid high and medium severity findings on Code4rena.
 - Helped secure Olas and Rujira through competitive smart contract audits.
 - Code4rena signal: Good.
+- Active on Code4rena and Cantina.
 - Currently building public security research, audit writeups, and DeFi security tooling.
 
 ## Featured Work
 
 ### NullTrace
 
-AI-powered DeFi security intelligence for exploit monitoring, transaction analysis, and forensic incident reports.
+Dev3Pack hackathon project: AI-powered DeFi security intelligence for exploit monitoring, transaction analysis, and forensic incident reports.
 
 - Next.js, TypeScript, Tailwind CSS
 - AI-assisted contract and transaction analysis
@@ -35,6 +38,12 @@ Public competitive audit profile with validated findings across DeFi protocols.
 - Helped secure: Olas, Rujira
 
 Profile: [code4rena.com/@Maro0o0o](https://code4rena.com/@Maro0o0o)
+
+### Cantina
+
+Security researcher profile for competitive audits and vulnerability research.
+
+Profile: [cantina.xyz/u/Mar0o0o0](https://cantina.xyz/u/Mar0o0o0)
 
 ### Open Source
 
@@ -62,3 +71,5 @@ PR: [warpdotdev/warp#9483](https://github.com/warpdotdev/warp/pull/9483)
 
 - GitHub: [@maro20066600](https://github.com/maro20066600)
 - Code4rena: [@Maro0o0o](https://code4rena.com/@Maro0o0o)
+- Cantina: [@Mar0o0o0](https://cantina.xyz/u/Mar0o0o0)
+- LinkedIn: [Marwan Mohamed](https://www.linkedin.com/in/marwan-mohamed-97b49328b/)
