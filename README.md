@@ -11,6 +11,8 @@ Smart Contract Security Researcher focused on DeFi protocol security, competitiv
 
 - Identified valid high and medium severity findings on Code4rena.
 - Helped secure Olas and Rujira through competitive smart contract audits.
+- Merged open-source contribution to Warp terminal.
+- Active contributor to security tooling, including Cyfrin Aderyn.
 - Code4rena signal: Good.
 - Active on Code4rena and Cantina.
 - Currently building public security research, audit writeups, and DeFi security tooling.
@@ -47,9 +49,12 @@ Profile: [cantina.xyz/u/Mar0o0o0](https://cantina.xyz/u/Mar0o0o0)
 
 ### Open Source
 
-Submitted a Rust pull request to Warp terminal improving Markdown file-link behavior so it respects the user's Markdown Viewer preference, with regression test coverage.
+Public contributions to developer tools and security tooling.
 
-PR: [warpdotdev/warp#9483](https://github.com/warpdotdev/warp/pull/9483)
+- **Warp terminal:** merged Rust contribution improving Markdown file-link behavior so it respects the user's Markdown Viewer preference, with regression test coverage and wasm CI follow-up.
+  - PR: [warpdotdev/warp#9483](https://github.com/warpdotdev/warp/pull/9483)
+- **Cyfrin Aderyn:** contributed to the costly loop detector by reducing false positives from for-loop initializers and updating report baselines.
+  - PR: [Cyfrin/aderyn#1075](https://github.com/Cyfrin/aderyn/pull/1075)
 
 ## Technical Focus
 
